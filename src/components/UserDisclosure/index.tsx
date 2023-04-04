@@ -4,7 +4,7 @@ import { ChevronDownIcon } from "@heroicons/react/20/solid";
 import { IRepository, IUser } from "../../types/interfaces";
 import RepositoryInfo from "../RepositoryInfo";
 import ProfileInfo from "../ProfileInfo";
-import Loader from "../../Loader";
+import Loader from "../Loader";
 
 import "./styles.scss";
 import InfoMessage from "../InfoMessage";

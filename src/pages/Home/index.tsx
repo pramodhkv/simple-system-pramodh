@@ -2,7 +2,7 @@ import React from "react";
 import FormTextInput from "../../components/FormTextInput";
 import InfoMessage from "../../components/InfoMessage";
 import UserDisclosure from "../../components/UserDisclosure";
-import Loader from "../../Loader";
+import Loader from "../../components/Loader";
 import { useFetchUsers } from "./hooks";
 
 const Home = () => {
