@@ -1,6 +1,28 @@
-# Getting Started with Create React App
+# SimpleSystem - Frontend Coding Challenge
+
+Thank you for giving me the opportunity to complete this challenge. I enjoyed working on it and I hope you like the result.
+This feature is a simple search for users in GitHub and list their repositories. The users are listed in a collapsible list and the repositories are listed inside the user's collapsible list.
+
+## Tech Stack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- 📦 **React**
+- 🔐 **TypeScript**
+- 🎨 **Tailwind CSS**
+
+## Features
+
+- Search for users in GitHub and list them in a collapsible list
+- Click on a user to see their repositories
+- Click on a repository to navigate to it in GitHub
+- The user list is limited to 5 users
+
+## Potential Improvements
+
+- May be a good idea to add a minimum number of characters to search for users
+- Add proper color scheme to the tailwind config file
+- Probably customise the scrollbar to make it look better
 
 ## Available Scripts
 
